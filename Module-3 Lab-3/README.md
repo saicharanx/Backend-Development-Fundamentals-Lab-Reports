@@ -221,14 +221,5 @@ For POST and PUT requests, send the book details in JSON format:
 
 ## Deployment
 
-The application has not been deployed yet.
+**Live Application:** https://backend-development-fundamentals-lab-t26d.onrender.com/books
 
-**Live Application:** Not applicable (local testing completed).
-
-## GitHub Repository
-
-[Backend Development Fundamentals – Lab Reports](https://github.com/saicharanx/Backend-Development-Fundamentals-Lab-Reports)
-
-## Result
-
-The REST API was implemented and tested successfully using Node.js, Express.js and SQLite. It supports book retrieval, creation, updating and deletion, along with searching, sorting, pagination, price-range filtering, input validation and appropriate HTTP status codes.
